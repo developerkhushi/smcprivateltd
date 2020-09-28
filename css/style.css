@@ -1845,3 +1845,8 @@ ul,li{
 	-ms-transition:all 500ms ease;
 	-o-transition:all 500ms ease;
 }
+.pic{
+	width:300px;
+	height:300px;
+	border-radius:50px 50px 50px 50px;
+}
