@@ -1850,3 +1850,6 @@ ul,li{
 	height:300px;
 	border-radius:50px 50px 50px 50px;
 }
+.logo{
+	border-radius:100%;
+}
