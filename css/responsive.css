@@ -86,7 +86,7 @@
 	.main-menu .navbar-header .navbar-toggle {
 	    display: block;
 	    border: 1px solid #ffffff;
-	    float: left;
+	    float: right;
 	    height: 50px;
 	    width: 50px;
 	    padding-left: 12px;
@@ -215,7 +215,7 @@
 	}
 	.main-header .logo{
 		right: 20px !important;
-		text-align: right;
+		text-align: left;
 	}
 	.rev_slider_wrapper .slider-text{
 		display: none !important;
