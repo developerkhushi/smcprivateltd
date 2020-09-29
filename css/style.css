@@ -494,7 +494,7 @@ ul,li{
 }
 .main-header .logo{
 	position: absolute;
-	top: 28px;
+	/*top: 28px;*/
 	left: 70px;
 }
 .main-header .main-menu{
