@@ -21,7 +21,7 @@
 	    top: 20px;
 	    margin-bottom: 20px;
 	    display: block;
-	    text-align: right;
+	    text-align: center;
 	}
 	.main-header .main-menu {
 	    text-align: left !important;
@@ -61,11 +61,8 @@
 }
 
 @media only screen and (max-width: 767px){
-	/*.main-header .link-button{
-		top: 25px !important;
-	}*/
 	.main-header .link-button{
-		display: none;
+		top: 25px !important;
 	}
 	.main-header .logo{
 		position: absolute !important;
