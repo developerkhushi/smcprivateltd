@@ -58,11 +58,26 @@
 	.testimonials-section .owl-nav{
 		display: none;
 	}
+	.main-menu .navbar-header .navbar-toggle {
+	    display: block;
+	    border: 1px solid #ffffff;
+	    float: left;
+	    height: 50px;
+	    width: 50px;
+	    padding-left: 12px;
+	    text-align: center;
+	    margin: 0px 0px 0px 0px;
+	    border-radius: 0px;
+	    background: #222222;
+	}
 }
 
 @media only screen and (max-width: 767px){
-	.main-header .link-button{
+	/*.main-header .link-button{
 		top: 25px !important;
+	}*/
+	.main-header .link-button{
+		display: none;
 	}
 	.main-header .logo{
 		position: absolute !important;
