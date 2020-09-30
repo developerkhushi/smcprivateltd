@@ -496,6 +496,7 @@ ul,li{
 	position: absolute;
 	/*top: 28px;*/
 	left: 70px;
+	
 }
 .main-header .main-menu{
 	text-align: center;
@@ -1850,12 +1851,12 @@ ul,li{
 	height:300px;
 	border-radius:50px 50px 50px 50px;
 }
-.logo2{
+.main-header .logo .logo2{
 	border-radius:100%;
 	height:100px;
 	width:100px;
 }
-.logo-img img{
+.main-header .logo .logo-img img{
 	height:80px;
 	width:80px;
 
